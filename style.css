@@ -1,0 +1,46 @@
+
+ 
+ 
+li{
+    display: inline;
+    justify-content: center;
+
+}
+div {
+    padding: 2rem;
+    margin: 0 auto;
+    border: purple dotted 2px;
+}
+
+
+nav, li {
+    border-radius: 6em;
+    margin: 20px;
+}
+.PlanYourVisit{
+    background-color: #ff754e;
+}
+
+.LearnAboutPark {
+    background-color: #5ED3EB;
+}
+.GetInvolved {
+    background-color: #FFCD69;
+}
+
+h1 {
+    font-family: "Chelsea-Market";
+}
+
+body {
+    font-family: 'Roboto Mono';
+    align-content: center;
+    margin-inline: center;
+}
+.firstsection{
+    background-color: #DDB9A3;
+}
+footer{
+    background-color: #F9E7DC;
+}
+
